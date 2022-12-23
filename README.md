@@ -1,1 +1,1 @@
-# ITFS---Javascript-Exam
+# ITFS-Javascript-Exam
