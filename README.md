@@ -4,4 +4,4 @@ Buongiorno a tutti, questa repo per condividere il lavoro svolto per la realizza
  
 Il README verra' aggiornato mano a mano che verranno svolti progressi in questa direzione. 
 
-Andrea 
+Pietro
