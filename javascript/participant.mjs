@@ -22,7 +22,7 @@ export class Participant {
     
     takeInLoan(collectibleId, collectorId) {
       const collectible = Collectible.get(collectibleId);
-      const collector = Collector.id(collectorId);
+      const collector = Collector.id(collectnumorId);
       if (!collectible || !collector) return;
   
       if (!collector.collection.includes(collectible)) {
