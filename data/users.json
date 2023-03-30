@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Guido",
+    "surname": "Nicheli",
+    "age": 57,
+    "sentence": "Ivana, fai ballare l'occhio sul tic! Via della Spiga, Hotel Cristallo di Cortina: 2 ore, 54 minuti e 27 secondi... Alboreto is nothing!",
+    "collector": true,
+    "img": "dogui.jpg",
+    "job": "CEO of the drip",
+    "items": [
+      "Santos",
+      "Speedmaster Moonwatch",
+      "Radiomir",
+      "Oysterquartz",
+      "El Primero A384"
+    ]
+  },
+  {
+    "name": "Myss",
+    "surname": "Keta",
+    "age": 34,
+    "sentence": "Io sono sempre stata legata al mondo clubbing, gay, queer e il progetto di Myss Keta, nato in una notte d’agosto, mi ha dato modo di riflettere sui valori sottesi a questo universo.",
+    "collector": true,
+    "img": "myss_keta.jpg",
+    "job": "Musician",
+    "items": [
+      "Milgauss",
+      "Overseas",
+      "MDM",
+      "Must",
+      "Pilot Mark XVIII Le Petit Prince"
+    ]
+  },
+  {
+    "name": "Michael",
+    "surname": "Scott",
+    "age": 45,
+    "sentence": "Parkour!",
+    "img": "michael.jpg",
+    "job": "Chief salesman",
+    "collector": false
+  },
+  {
+    "name": "Britney",
+    "surname": "Spears",
+    "age": 42,
+    "sentence": "It's Britney b*tch",
+    "img": "britney.jpg",
+    "job": "Entrepreneur",
+    "collector": false
+  }
+]

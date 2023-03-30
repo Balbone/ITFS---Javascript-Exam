@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Santos",
+    "description": "The Santos watch was conceived by Louis Cartier in 1904 to help aviators tell time mid-flight. Since then, this pioneering wristwatch has become an icon, defined by its geometric dial, harmoniously curved horns and signature exposed screws",
+    "img": "cartier_santos.jpg",
+    "productor": "Cartier",
+    "year": 1974,
+    "material": "Steel"
+  },
+  {
+    "name": "Must",
+    "description": "Inspired by the design of a combat vehicle viewed from above, this watch follows one clear graphic principle: the brancards were the treads, the case was the turret. From this combination came a new and fundamental principal: the case attachments are aligned with the strap to maintain the rhythm of the design.",
+    "img": "cartier_tank_must.jpg",
+    "productor": "Cartier",
+    "year": 2021,
+    "material": "Steel"
+  },
+  {
+    "name": "Alpine Eagle",
+    "description": "Featuring a wealth of references to the Alpine eagle and its biotope, every component of the Alpine Eagle luxury watch has been meticulously conceived and designed in harmony with nature.",
+    "img": "chopard_alpine_eagle.jpg",
+    "productor": "Chopard",
+    "year": 2017,
+    "material": "Steel"
+  },
+  {
+    "name": "Laureato",
+    "description": "First launched in 1975, the Laureato is a gem of sporty elegance. With its sleek lines and easy wearability in an integrated bracelet, the Laureato blends aesthetics and functionality as only Girard-Perregaux can do.",
+    "img": "chopard_alpine_eagle.jpg",
+    "productor": "Girard Perregaux",
+    "year": 2014,
+    "material": "Steel"
+  },
+  {
+    "name": "MDM",
+    "description": "Although the Hublot Company was officially established in 1980, the making of the brand began back in the mid-1970s. The founder of the company, Carlo Crocco, left the Breil Watch Company where he was working and started developing his own watch design. At the time, it was in 1976 and it took him three years to do all the planning and assembling of the timepiece. After the completion of the watch around 1980, Crocco named it “Hublot”- a French word which means porthole. The Italian watchmaker had borrowed the name following the design of the timepiece which resembles a porthole shape.",
+    "img": "hublot_mdm.jpg",
+    "productor": "Hublot",
+    "year": 1980,
+    "material": "Steel"
+  },
+  {
+    "name": "Pilot Mark XVIII Le Petit Prince",
+    "description": "The first IWC pilot watch was produced in the mid-1930s for civil aviation purposes. In response to an invitation for tender issued by the British Government, IWC developed a service watch for pilots of the Royal Air Force. In 2006, IWC introduced a special pilot watch named after Antoine de Saint Exupery to commemorate the publication 75 years earlier of his novel Night Flight. Since that date, tributes have continued to be paid to the famous writer.",
+    "img": "iwc_petit_prince.jpg",
+    "productor": "IWC",
+    "year": 2016,
+    "material": "Steel"
+  },
+  {
+    "name": "Reverso",
+    "description": "The Reverso was created to withstand the rigours of polo matches. Its subtle Art Deco lines and unique, pioneering reversable case have made it one of the world’s most recognisable watches.",
+    "img": "jager_lecoultre_reverso.jpg",
+    "productor": "Jäger-LeCoultre",
+    "year": 1992,
+    "material": "Steel"
+  },
+  {
+    "name": "Speedmaster Moonwatch",
+    "description": "When motorsports enjoyed its heyday in the middle of the 20th century and became enormously popular with the general public, luxury watch manufacturers also took notice of this high-performance sport. The Speedmaster and what would later become known as the "Moonwatch" made its debut in space secured to the wrist of Walter Schirra, when he took his personal wristwatch, an Omega Speedmaster Professional, on the Mercury-Atlas 8 mission, without the knowledge of NASA or the watch's manufacturer. NASA began testing a wide variety of manual winding chronographs for use in space around the same time. Omega, Longines and Rolex were ultimately pitted against one another as finalists. Ultimately, the Omega Speedmaster edged out its two competitors to become a permanent piece of NASA's crew equipment.",
+    "img": "omega_moonwatch.jpg",
+    "productor": "Omega",
+    "year": 2008,
+    "material": "Steel"
+  },
+  {
+    "name": "Railmaster",
+    "description": "In the year 1957, Omega sought to release a trilogy of technical watches to match the current trend and need in the market for niche watches. The Railmaster was Omega’s answer to other anti-magnetic watches already in the market, such as the Rolex Milgauss.",
+    "img": "omega_railmaster.jpg",
+    "productor": "Omega",
+    "year": 2015,
+    "material": "Steel"
+  },
+  {
+    "name": "Radiomir",
+    "description": "The Radiomir is the first watch designed by Panerai as a prototype in 1936 at the request of the Royal Italian Navy.
+It takes its name from the material used on the dial, a very luminous material, patented by Panerai, that made the watch ideal for the underwater use for which it was designed. In the entire course of history, Rolex never made any watches for any brand in the world, with one exception, and this was for Panerai. There was a persistent myth that suggested the very first Panerai production models, which were made between 1936 and 1938 featured the Art-Deco masterpiece California Dial. These dials featured an upside down triangle for the 12 indices, and rectangular indices at 3, 6, and 9. The 1, 2, 10, 11 markers used Roman numerals, and the 4, 5, 7, and 8 markers used Arabic numerals.",
+    "img": "panerai_radiomir_california.jpg",
+    "productor": "Panerai",
+    "year": 1996,
+    "material": "Steel"
+  },
+  {
+    "name": "Milgauss",
+    "description": "The Milgauss was advertised as designed to meet the demands of the scientific community working around electromagnetic fields. The first of its kind, it is capable of withstanding magnetic fields of up to 1,000 gauss and became known for being worn by scientists at the European Organization for Nuclear Research (CERN) in Geneva. Its resistance to magnetic interference stems from a shield inside the case made of ferromagnetic alloys, which protects the movement.",
+    "img": "rolex_milgauss1019.jpg",
+    "productor": "Rolex",
+    "year": 1978,
+    "material": "Steel"
+  },
+  {
+    "name": "Oysterquartz",
+    "description": "Quartz calibers were the darling tech of the 1960s and 1970s and big players in the watch business wanted a piece of that pie. When Seiko unveiled the Astron in December 1969 as the world’s first quartz wristwatch, it marked the beginning of the bitter battle that’s now described as either the Quartz Revolution or the Quartz Crisis. But before the advent of quartz movements decimated most of the Swiss watchmaking industry, numerous high-end Swiss watch brands, including Rolex, fought back with an arsenal of luxury quartz watches. The Oysterquartz was thus Rolex's answer to the advent of the quartz.",
+    "img": "rolex_oysterquartz.jpg",
+    "productor": "Rolex",
+    "year": 1983,
+    "material": "Steel"
+  },
+  {
+    "name": "Prince Submariner",
+    "description": "One can imagine Hans Wilsdorf arriving at this logical solution: Why not use Rolex cases, crowns and bracelets and combine them with the best outsourced movements in the Swiss watch industry? Since these movements were his own vision, and distinct from the Rolex movements, Wilsdorf could not call these watches Rolexes. So, he decided instead to create a new brand named Tudor. From 1954 to 1978, Tudor created some of the world’s most collectible diving watches.",
+    "img": "tudor_prince_submariner.jpg",
+    "productor": "Tudor",
+    "year": 1975,
+    "material": "Steel"
+  },
+  {
+    "name": "Overseas",
+    "description": "It was in the Seventies that the style we generally refer to as sport-luxury was established. Foundation pieces like the Audemars Piguet Royal Oak and the Patek Philippe Nautilus set the stage for many to follow. Few would have expected the timepiece that Vacheron Constantin, a Swiss manufacture even older than they and just as dedicated to tradition, would unveil for its 222nd anniversary in 1977. The simply named Vacheron Constantin 222 was notable, and at the time viewed as somewhat radical, for its monobloc steel case, integrated steel bracelet with hexagonal center links, and scalloped, screw-down bezel, which evoked, but certainly did not duplicate, the emblematic octagonal bezels that defined the Royal Oak and Nautilus.",
+    "img": "vacheron_constantin_overseas.jpg",
+    "productor": "Vacheron Constantin",
+    "year": 1998,
+    "material": "Steel"
+  }, 
+  {
+    "name": "El Primero A384",
+    "description": "Zenith quickly earned a reputation as the manufacturer of some of the most precise timepieces. In 1962, Zenith began developing the idea of creating the first automatic chronograph in watchmaking history with the ambition to launch it in 1965. In 1969, Zenith announced the imminent launch of the first fully integrated, high-frequency, automatic chronograph movement. This movement was renamed El Primero, which means the first in Spanish. The first El Primero timepiece that appeared in a Zenith advertisement was the A384 reference. Zenith’s seminal El Primero chronograph appeared on the wrist Lupin III’s best friend, Daisuke Jigen, twice in the series. In the very first episode Jigen is seen wearing a Zenith El Primero A384.",
+    "img": "vacheron_constantin_overseas.jpg",
+    "productor": "Zenith",
+    "year": 2017,
+    "material": "Steel"
+  }
+  
+]
