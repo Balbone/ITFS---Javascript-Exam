@@ -164,7 +164,7 @@ createApp()
                             </div>
                         </div>
                         <div class="profile-part3">
-                            <p class="profile-sentence"><strong>Favorite quote:</strong> "${user.sentence}"</p>
+                            <p class="profile-sentence"><strong>Catch Phrase:</strong> "${user.sentence}"</p>
                         </div>`
 
             list.insertAdjacentHTML("beforeend", template);
